@@ -19,7 +19,7 @@ Le but de ce TP est de vous faire découvrir, pour certains, le monde du web alo
 
 ## Eléments obligatoires
 
-**Le nom respect de ces consignes sera pris en compte dans la notation**
+**Le non respect de ces consignes sera pris en compte dans la notation**
 
 * Utiliser git et faire au moins 3 commits (exemple: je crée le structure de mon document => je commit, je crée le style de mon document => je commit,... Prenez de bonnes habitudes dès maintenant)
 * Un menu qui permet de naviguer dans la page ou sur des pages extérieures
