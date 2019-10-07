@@ -1,18 +1,63 @@
-     {
-    padding: 0;
+.brand {
+    background-image: url('../img/index_bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    text-align: center;
 }
 
-.nav-links li {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    display: inline;
-    float: right;
+.name_index {
+    padding-top: 180px;
+    color: #eee;
+    font-size: 6em;
+    text-shadow: 3px 3px 10px #000;
 }
 
-.nav-link {
-    padding: 8px;
-    text-decoration: none;
-    color: #222222;
-    background: #dddddd;
+.brand_subtitle {
+    color: #eee;
+    font-size: 2em;
+    text-shadow: 3px 3px 10px #000;
+}
+
+.chevron {
+    margin-top: 150px;
+    color: #eee;
+    font-size: 2em;
+    text-shadow: 3px 3px 10px #000;
+}
+
+h2 {
+    font-size: 3em;
+}
+
+.content_index {
+    height: 250px;
+    margin: 10px;
+}
+
+.section_title {
+    padding: 20px;
+}
+
+.section_name {
+    padding-top: 60px;
+    font-size: 2.5em;
+}
+
+.about_pic_1 {
+    background-image: url('../img/about_1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.about_pic_2 {
+    background-image: url('../img/about_2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.about_pic_3 {
+    background-image: url('../img/about_3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
